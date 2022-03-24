@@ -8,7 +8,7 @@ export const TRADING_COMPETITION_V2_SUBGRAPH =
 
 export const TRADING_COMPETITION_SUBGRAPH = TRADING_COMPETITION_V2_SUBGRAPH;
 
-export const PROFILE_SUBGRAPH = "https://api.thegraph.com/subgraphs/name/pancakeswap/profile";
+export const PROFILE_SUBGRAPH = "https://api.thegraph.com/subgraphs/name/gravyswap/chapel-profile";
 
 /**
  * Check for the validity of a username based on rules (see documentation).
